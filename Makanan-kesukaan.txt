@@ -3,3 +3,4 @@ Daftar Makanan kesukaan
 2. Ayam geprek
 3. Rendang
 4. Nasi
+5. Sate
